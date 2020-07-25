@@ -1,2 +1,3 @@
 # PredictableRandomness
-Composable architecture
+- Composable architecture
+- SwiftUI
